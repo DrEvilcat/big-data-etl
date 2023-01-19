@@ -1,0 +1,2 @@
+These four Jupyter notebooks can run on Google Colab to load up AMazon reviews to a Postgres server.
+Make sure to update the endpoint, database name, and password in the Load section of each notebook with your own details.
